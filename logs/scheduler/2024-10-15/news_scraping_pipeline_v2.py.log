@@ -1,0 +1,235 @@
+[2024-10-15T08:38:08.326+0000] {processor.py:186} INFO - Started process (PID=4517) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:38:08.332+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:38:08.336+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:38:08.335+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:38:08.406+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:38:08.850+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:38:08.849+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:38:08.911+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:38:08.911+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:38:08.987+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.675 seconds
+[2024-10-15T08:38:39.074+0000] {processor.py:186} INFO - Started process (PID=4580) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:38:39.075+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:38:39.079+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:38:39.078+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:38:39.107+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:38:39.148+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:38:39.148+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:38:39.189+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:38:39.188+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:38:39.213+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.148 seconds
+[2024-10-15T08:39:16.437+0000] {processor.py:186} INFO - Started process (PID=4602) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:39:16.441+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:39:16.445+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:39:16.444+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:39:16.498+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:39:16.667+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:39:16.667+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:39:16.754+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:39:16.753+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:39:16.820+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.410 seconds
+[2024-10-15T08:39:47.860+0000] {processor.py:186} INFO - Started process (PID=4665) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:39:47.862+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:39:47.864+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:39:47.864+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:39:47.894+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:39:47.921+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:39:47.920+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:39:47.951+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:39:47.950+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:39:47.979+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.131 seconds
+[2024-10-15T08:40:18.895+0000] {processor.py:186} INFO - Started process (PID=4727) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:40:18.896+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:40:18.898+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:40:18.898+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:40:18.928+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:40:18.957+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:40:18.957+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:40:18.999+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:40:18.998+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:40:19.027+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.146 seconds
+[2024-10-15T08:40:49.915+0000] {processor.py:186} INFO - Started process (PID=4790) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:40:49.931+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:40:49.947+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:40:49.946+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:40:49.990+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:40:50.052+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:40:50.051+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:40:50.116+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:40:50.115+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:40:50.160+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.266 seconds
+[2024-10-15T08:41:27.886+0000] {processor.py:186} INFO - Started process (PID=4824) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:41:27.888+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:41:27.892+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:41:27.891+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:41:27.921+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:41:27.953+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:41:27.953+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:41:28.002+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:41:28.001+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:41:28.037+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.164 seconds
+[2024-10-15T08:41:58.192+0000] {processor.py:186} INFO - Started process (PID=4879) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:41:58.194+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:41:58.204+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:41:58.199+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:41:58.243+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:41:58.298+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:41:58.297+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:41:58.353+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:41:58.352+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:41:58.403+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.229 seconds
+[2024-10-15T08:42:28.613+0000] {processor.py:186} INFO - Started process (PID=4941) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:42:28.615+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:42:28.618+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:42:28.618+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:42:28.658+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:42:28.696+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:42:28.695+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:42:28.757+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:42:28.756+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:42:28.794+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.194 seconds
+[2024-10-15T08:43:00.428+0000] {processor.py:186} INFO - Started process (PID=4995) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:43:00.430+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:43:00.432+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:43:00.431+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:43:00.467+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:43:00.497+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:43:00.497+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:43:00.555+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:43:00.554+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:43:00.624+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.208 seconds
+[2024-10-15T08:43:30.987+0000] {processor.py:186} INFO - Started process (PID=5058) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:43:30.990+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:43:31.003+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:43:31.002+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:43:32.750+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:43:33.044+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:43:33.043+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:43:33.122+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:43:33.121+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:43:33.195+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.582 seconds
+[2024-10-15T08:44:03.857+0000] {processor.py:186} INFO - Started process (PID=5120) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:44:03.858+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:44:03.860+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:44:03.860+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:44:03.883+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:44:03.914+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:44:03.913+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:44:05.606+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:44:05.606+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:44:05.635+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.144 seconds
+[2024-10-15T08:44:39.101+0000] {processor.py:186} INFO - Started process (PID=5183) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:44:39.102+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:44:39.107+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:44:39.106+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:44:39.136+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:44:39.168+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:44:39.168+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:44:39.201+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:44:39.201+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:44:39.225+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.134 seconds
+[2024-10-15T08:45:11.435+0000] {processor.py:186} INFO - Started process (PID=5246) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:45:11.439+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:45:11.442+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:45:11.441+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:45:11.473+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:45:11.510+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:45:11.509+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:45:11.548+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:45:11.547+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:45:11.576+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.156 seconds
+[2024-10-15T08:45:44.251+0000] {processor.py:186} INFO - Started process (PID=5308) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:45:44.254+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:45:44.258+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:45:44.257+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:45:44.315+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:45:44.636+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:45:44.636+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:45:44.726+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:45:44.726+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:45:44.819+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.589 seconds
+[2024-10-15T08:46:17.012+0000] {processor.py:186} INFO - Started process (PID=5372) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:46:17.014+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:46:17.016+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:46:17.016+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:46:17.061+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:46:17.100+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:46:17.099+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:46:17.157+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:46:17.156+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:46:17.193+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.196 seconds
+[2024-10-15T08:47:08.196+0000] {processor.py:186} INFO - Started process (PID=5429) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:47:08.240+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:47:08.421+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:47:08.243+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:47:21.752+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:56:31.399+0000] {processor.py:186} INFO - Started process (PID=68) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:56:31.413+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:56:31.454+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:56:31.451+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:56:31.681+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:56:32.011+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:56:32.010+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:56:32.182+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:56:32.182+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:56:32.293+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.973 seconds
+[2024-10-15T08:57:13.009+0000] {processor.py:186} INFO - Started process (PID=131) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:57:13.012+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:57:13.021+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:57:13.021+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:57:13.150+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:57:13.240+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:57:13.239+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:57:13.396+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:57:13.395+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:57:13.459+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.479 seconds
+[2024-10-15T08:57:51.568+0000] {processor.py:186} INFO - Started process (PID=191) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:57:51.576+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:57:51.590+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:57:51.588+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:57:51.924+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:57:52.081+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:57:52.081+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:57:52.680+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:57:52.679+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:57:53.010+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 1.499 seconds
+[2024-10-15T08:58:23.818+0000] {processor.py:186} INFO - Started process (PID=249) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:58:23.822+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:58:23.831+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:58:23.830+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:58:23.903+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:58:23.974+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:58:23.973+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:58:24.067+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:58:24.067+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:58:24.110+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.317 seconds
+[2024-10-15T08:58:55.204+0000] {processor.py:186} INFO - Started process (PID=312) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:58:55.206+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:58:55.216+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:58:55.215+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:58:55.265+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:58:55.329+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:58:55.328+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:58:55.418+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:58:55.418+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:58:55.488+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.298 seconds
+[2024-10-15T08:59:28.715+0000] {processor.py:186} INFO - Started process (PID=375) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:59:28.718+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:59:28.724+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:59:28.723+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:59:28.773+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:59:28.813+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:59:28.812+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:59:28.869+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:59:28.869+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:59:28.901+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.207 seconds
+[2024-10-15T08:59:59.421+0000] {processor.py:186} INFO - Started process (PID=437) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:59:59.423+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T08:59:59.427+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:59:59.426+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:59:59.458+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T08:59:59.488+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:59:59.487+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T08:59:59.560+0000] {logging_mixin.py:190} INFO - [2024-10-15T08:59:59.559+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T08:59:59.629+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.219 seconds
+[2024-10-15T09:00:31.975+0000] {processor.py:186} INFO - Started process (PID=485) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:00:32.226+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:00:32.238+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:00:32.237+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:00:32.284+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:00:32.324+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:00:32.323+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:00:32.363+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:00:32.362+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:00:33.145+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 1.182 seconds
+[2024-10-15T09:01:03.436+0000] {processor.py:186} INFO - Started process (PID=548) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:01:03.439+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:01:03.444+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:01:03.443+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:01:03.480+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:01:03.562+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:01:03.561+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:01:03.614+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:01:03.614+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:01:04.386+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.964 seconds
+[2024-10-15T09:01:34.846+0000] {processor.py:186} INFO - Started process (PID=611) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:01:34.848+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:01:34.852+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:01:34.851+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:01:34.878+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:01:34.907+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:01:34.907+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:01:34.944+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:01:34.944+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:01:35.012+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.176 seconds
+[2024-10-15T09:02:06.007+0000] {processor.py:186} INFO - Started process (PID=670) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:02:06.009+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:02:06.012+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:02:06.012+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:02:06.041+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:02:06.072+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:02:06.072+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:02:06.109+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:02:06.109+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:02:06.139+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.144 seconds
+[2024-10-15T09:02:38.208+0000] {processor.py:186} INFO - Started process (PID=727) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:02:38.210+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:02:38.215+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:02:38.214+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:02:38.248+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:02:38.276+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:02:38.275+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:02:38.322+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:02:38.321+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:02:38.363+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.173 seconds
+[2024-10-15T09:03:11.644+0000] {processor.py:186} INFO - Started process (PID=796) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:03:11.647+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:03:11.657+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:03:11.656+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:03:11.731+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:03:11.813+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:03:11.813+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:03:11.907+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:03:11.907+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:03:11.972+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.349 seconds
+[2024-10-15T09:03:44.328+0000] {processor.py:186} INFO - Started process (PID=853) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:03:44.330+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:03:44.338+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:03:44.337+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:03:44.410+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:03:44.524+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:03:44.523+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:03:44.604+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:03:44.603+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:03:44.645+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.330 seconds
+[2024-10-15T09:04:16.696+0000] {processor.py:186} INFO - Started process (PID=916) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:04:16.698+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:04:16.703+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:04:16.702+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:04:16.729+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:04:16.761+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:04:16.760+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:04:16.802+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:04:16.802+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:04:16.842+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.162 seconds
+[2024-10-15T09:04:47.827+0000] {processor.py:186} INFO - Started process (PID=979) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:04:47.828+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:04:47.832+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:04:47.831+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:04:49.513+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:04:49.542+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:04:49.542+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:04:49.581+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:04:49.581+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:04:49.610+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.144 seconds
+[2024-10-15T09:05:22.706+0000] {processor.py:186} INFO - Started process (PID=1042) to work on /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:05:22.709+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/news_scraping_pipeline_v2.py for tasks to queue
+[2024-10-15T09:05:22.719+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:05:22.718+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:05:22.755+0000] {processor.py:925} INFO - DAG(s) 'news_scraping_pipeline_v2' retrieved from /opt/airflow/dags/news_scraping_pipeline_v2.py
+[2024-10-15T09:05:22.799+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:05:22.798+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-15T09:05:22.856+0000] {logging_mixin.py:190} INFO - [2024-10-15T09:05:22.856+0000] {dag.py:4180} INFO - Setting next_dagrun for news_scraping_pipeline_v2 to 2024-10-14 19:00:00+00:00, run_after=2024-10-15 19:00:00+00:00
+[2024-10-15T09:05:22.894+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/news_scraping_pipeline_v2.py took 0.206 seconds
