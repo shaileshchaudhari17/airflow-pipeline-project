@@ -22,4 +22,12 @@ jobs:
 
     - name: Run Airflow tasks
       run: |
-        docker-compose exec airflow-webserver airflow dags trigger <your_dag_name>
+        docker-compose exec airflow-webserver airflow dags trigger news_scraping_pipeline
+
+  notify:
+    if: failure()  # Only run if the build fails
+    runs-on: ubuntu-latest
+    steps:
+    - name: Send failure notification
+      run: |
+        echo "Build failed! Please check the logs."
