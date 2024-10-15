@@ -1,0 +1,25 @@
+name: CI for Airflow Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Docker
+      uses: docker/setup-buildx-action@v1
+
+    - name: Build Docker containers
+      run: |
+        docker-compose up --build -d
+
+    - name: Run Airflow tasks
+      run: |
+        docker-compose exec airflow-webserver airflow dags trigger <your_dag_name>
